@@ -1,0 +1,10 @@
+{
+  "name": "bbui",
+  "version": "0.9.5",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "main": ["pkg/bbui.css", "pkg/bbui.js"]
+}
